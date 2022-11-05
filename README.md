@@ -4,7 +4,7 @@
 
 ---
 
-Wheelchairmodified so that the arms end on the wheels
+Wheelchair modified so that the arms end on the wheels
 This is a first version, I’m adjusting the position of the feet on next release
 
 
