@@ -4,13 +4,14 @@
 
 ---
 
-Wheelchair modified so that the arms end on the wheels
-This is a first version, I’m adjusting the position of the feet on next release
-
-
 ## Features
 
 - Original Source: [Click Here](https://www.gta5-mods.com/vehicles/wheelchair-addon)
 - Showcase: [Click Here](https://www.youtube.com/watch?v=DbGKcxFmTJI)
+
+## DMCA Protection Certificate
+![image](https://cdn.discordapp.com/attachments/1045063739738705940/1045092371123159150/image.png)
+
+##### Copyright © 2022 Malibú Tech. All rights reserved.
 
 
